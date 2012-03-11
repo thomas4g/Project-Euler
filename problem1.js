@@ -1,3 +1,9 @@
+//OBJECTIVE:
+//Find the sum of all the multiples
+//of the given values below the limit
+
+//TODO: rewrite using recursion awesomeness
+
 function solve(multiples, limit) {
 	var i=0, sum=0, j;
 	for(;i<limit;i++) {
