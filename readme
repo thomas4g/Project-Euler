@@ -1,2 +1,2 @@
-This is a collection of my attempt to work through Project Euler.
-Each project is written in JavaScript and contained in a ProjectX.js file, where X is the project number.
+This is a collection of my attempts to work through Project Euler.
+Each project is written in JavaScript and contained in a problemX.js file, where X is the project number.
