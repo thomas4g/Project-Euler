@@ -1,3 +1,7 @@
+//OBJECTIVE:
+//Find the sum of all primes
+//below n
+
 function sum(n) {
 	var i=p=2, list=[], cont=true;
 	for(;i<n;i++) { list.push(i); }
