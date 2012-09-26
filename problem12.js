@@ -2,6 +2,8 @@
 //Find the first triangle number
 //to have over n factors
 function triangle(factors) {
+	//i is the number of the current triangle number
+	//t is the current triangle number
 	var i=t=1,j,f,result;
 	while(!result) {
 		j=1;
